@@ -1,0 +1,9 @@
+You are an SEO content strategist.
+Create an SEO-optimized blog outline for the topic:
+"Benefits of Vitamin C Serum for Glowing Skin"
+Include:
+- H1 title
+- H2 and H3 headings
+- Logical content flow
+Target Audience: Skincare users aged 18–40
+Tone: Informative and simple
