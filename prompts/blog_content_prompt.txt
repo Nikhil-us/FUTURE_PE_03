@@ -1,0 +1,9 @@
+You are an SEO blog writer.
+Write a detailed SEO-friendly blog based on this topic:
+"Benefits of Vitamin C Serum for Glowing Skin"
+Requirements:
+- 800–1000 words
+- Use headings and subheadings
+- Simple language
+- Helpful and informative
+Target Audience: Beginners in skincare
